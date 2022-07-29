@@ -63,6 +63,16 @@ namespace Tic_Tac_Toe_HaikyuuTheme.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap alexandralogo {
+            get {
+                object obj = ResourceManager.GetObject("alexandralogo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap GameTitle {
             get {
                 object obj = ResourceManager.GetObject("GameTitle", resourceCulture);

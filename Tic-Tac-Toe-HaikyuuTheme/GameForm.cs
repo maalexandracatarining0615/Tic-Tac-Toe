@@ -33,5 +33,37 @@ namespace Tic_Tac_Toe_HaikyuuTheme
 
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("The players will take turns putting their marks in the empty spaces. Whoever got 3 of their marks in a row, whether up, down, across, or diagonally, will be the winner.");
+
+        }
+
+        private void NewGame_Click(object sender, EventArgs e)
+        {
+            Application.Restart();
+        }
+
+        private void Exit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void LogoCreator_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void GameBlock_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void GameForm_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
     }
 }

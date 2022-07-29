@@ -64,7 +64,7 @@
             this.Hinatax2y2 = new System.Windows.Forms.PictureBox();
             this.Hinatax3y2 = new System.Windows.Forms.PictureBox();
             this.Hinatax1y3 = new System.Windows.Forms.PictureBox();
-            this.Hinataxx2y3 = new System.Windows.Forms.PictureBox();
+            this.Hinatax2y3 = new System.Windows.Forms.PictureBox();
             this.Hinatax3y3 = new System.Windows.Forms.PictureBox();
             this.Hinatax1y1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.GameTitle)).BeginInit();
@@ -85,7 +85,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.Hinatax2y2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Hinatax3y2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Hinatax1y3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Hinataxx2y3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Hinatax2y3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Hinatax3y3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Hinatax1y1)).BeginInit();
             this.SuspendLayout();
@@ -213,6 +213,7 @@
             this.buttonA.TabIndex = 11;
             this.buttonA.Text = "button2";
             this.buttonA.UseVisualStyleBackColor = true;
+            this.buttonA.Click += new System.EventHandler(this.buttonA_Click);
             // 
             // buttonB
             // 
@@ -298,12 +299,13 @@
             // Kageyamax1y1
             // 
             this.Kageyamax1y1.Image = global::Tic_Tac_Toe_HaikyuuTheme.Properties.Resources.kageyamao;
-            this.Kageyamax1y1.Location = new System.Drawing.Point(343, 31);
+            this.Kageyamax1y1.Location = new System.Drawing.Point(343, 42);
             this.Kageyamax1y1.Name = "Kageyamax1y1";
             this.Kageyamax1y1.Size = new System.Drawing.Size(151, 141);
             this.Kageyamax1y1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.Kageyamax1y1.TabIndex = 21;
             this.Kageyamax1y1.TabStop = false;
+            this.Kageyamax1y1.Click += new System.EventHandler(this.Kageyamax1y1_Click);
             // 
             // Kageyamax2y1
             // 
@@ -445,15 +447,15 @@
             this.Hinatax1y3.TabIndex = 36;
             this.Hinatax1y3.TabStop = false;
             // 
-            // Hinataxx2y3
+            // Hinatax2y3
             // 
-            this.Hinataxx2y3.Image = ((System.Drawing.Image)(resources.GetObject("Hinataxx2y3.Image")));
-            this.Hinataxx2y3.Location = new System.Drawing.Point(503, 323);
-            this.Hinataxx2y3.Name = "Hinataxx2y3";
-            this.Hinataxx2y3.Size = new System.Drawing.Size(151, 141);
-            this.Hinataxx2y3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.Hinataxx2y3.TabIndex = 37;
-            this.Hinataxx2y3.TabStop = false;
+            this.Hinatax2y3.Image = ((System.Drawing.Image)(resources.GetObject("Hinatax2y3.Image")));
+            this.Hinatax2y3.Location = new System.Drawing.Point(503, 323);
+            this.Hinatax2y3.Name = "Hinatax2y3";
+            this.Hinatax2y3.Size = new System.Drawing.Size(151, 141);
+            this.Hinatax2y3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Hinatax2y3.TabIndex = 37;
+            this.Hinatax2y3.TabStop = false;
             // 
             // Hinatax3y3
             // 
@@ -468,7 +470,7 @@
             // Hinatax1y1
             // 
             this.Hinatax1y1.Image = ((System.Drawing.Image)(resources.GetObject("Hinatax1y1.Image")));
-            this.Hinatax1y1.Location = new System.Drawing.Point(345, 31);
+            this.Hinatax1y1.Location = new System.Drawing.Point(344, 52);
             this.Hinatax1y1.Name = "Hinatax1y1";
             this.Hinatax1y1.Size = new System.Drawing.Size(151, 141);
             this.Hinatax1y1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -483,7 +485,7 @@
             this.ClientSize = new System.Drawing.Size(842, 490);
             this.Controls.Add(this.Hinatax1y1);
             this.Controls.Add(this.Hinatax3y3);
-            this.Controls.Add(this.Hinataxx2y3);
+            this.Controls.Add(this.Hinatax2y3);
             this.Controls.Add(this.Hinatax1y3);
             this.Controls.Add(this.Hinatax3y2);
             this.Controls.Add(this.Hinatax2y2);
@@ -544,7 +546,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.Hinatax2y2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Hinatax3y2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Hinatax1y3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.Hinataxx2y3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Hinatax2y3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Hinatax3y3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Hinatax1y1)).EndInit();
             this.ResumeLayout(false);
@@ -589,7 +591,7 @@
         private PictureBox Hinatax2y2;
         private PictureBox Hinatax3y2;
         private PictureBox Hinatax1y3;
-        private PictureBox Hinataxx2y3;
+        private PictureBox Hinatax2y3;
         private PictureBox Hinatax3y3;
         private PictureBox Hinatax1y1;
     }

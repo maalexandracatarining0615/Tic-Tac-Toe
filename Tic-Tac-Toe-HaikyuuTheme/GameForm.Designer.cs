@@ -243,6 +243,7 @@
             this.buttonD.TabIndex = 14;
             this.buttonD.Text = "button2";
             this.buttonD.UseVisualStyleBackColor = true;
+            this.buttonD.Click += new System.EventHandler(this.buttonD_Click);
             // 
             // buttonE
             // 
@@ -252,6 +253,7 @@
             this.buttonE.TabIndex = 15;
             this.buttonE.Text = "button2";
             this.buttonE.UseVisualStyleBackColor = true;
+            this.buttonE.Click += new System.EventHandler(this.buttonE_Click);
             // 
             // buttonF
             // 
@@ -261,6 +263,7 @@
             this.buttonF.TabIndex = 16;
             this.buttonF.Text = "button2";
             this.buttonF.UseVisualStyleBackColor = true;
+            this.buttonF.Click += new System.EventHandler(this.buttonF_Click);
             // 
             // buttonG
             // 
@@ -270,6 +273,7 @@
             this.buttonG.TabIndex = 17;
             this.buttonG.Text = "button2";
             this.buttonG.UseVisualStyleBackColor = true;
+            this.buttonG.Click += new System.EventHandler(this.buttonG_Click);
             // 
             // buttonH
             // 
@@ -313,7 +317,7 @@
             // Kageyamax2y1
             // 
             this.Kageyamax2y1.Image = global::Tic_Tac_Toe_HaikyuuTheme.Properties.Resources.kageyamao;
-            this.Kageyamax2y1.Location = new System.Drawing.Point(502, 42);
+            this.Kageyamax2y1.Location = new System.Drawing.Point(502, 31);
             this.Kageyamax2y1.Name = "Kageyamax2y1";
             this.Kageyamax2y1.Size = new System.Drawing.Size(151, 141);
             this.Kageyamax2y1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -323,7 +327,7 @@
             // Kageyamax3y1
             // 
             this.Kageyamax3y1.Image = global::Tic_Tac_Toe_HaikyuuTheme.Properties.Resources.kageyamao;
-            this.Kageyamax3y1.Location = new System.Drawing.Point(661, 39);
+            this.Kageyamax3y1.Location = new System.Drawing.Point(661, 32);
             this.Kageyamax3y1.Name = "Kageyamax3y1";
             this.Kageyamax3y1.Size = new System.Drawing.Size(151, 141);
             this.Kageyamax3y1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -353,7 +357,7 @@
             // Kageyamax3y2
             // 
             this.Kageyamax3y2.Image = global::Tic_Tac_Toe_HaikyuuTheme.Properties.Resources.kageyamao;
-            this.Kageyamax3y2.Location = new System.Drawing.Point(659, 178);
+            this.Kageyamax3y2.Location = new System.Drawing.Point(659, 179);
             this.Kageyamax3y2.Name = "Kageyamax3y2";
             this.Kageyamax3y2.Size = new System.Drawing.Size(151, 141);
             this.Kageyamax3y2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -363,7 +367,7 @@
             // Kageyamax1y3
             // 
             this.Kageyamax1y3.Image = global::Tic_Tac_Toe_HaikyuuTheme.Properties.Resources.kageyamao;
-            this.Kageyamax1y3.Location = new System.Drawing.Point(345, 323);
+            this.Kageyamax1y3.Location = new System.Drawing.Point(345, 335);
             this.Kageyamax1y3.Name = "Kageyamax1y3";
             this.Kageyamax1y3.Size = new System.Drawing.Size(151, 141);
             this.Kageyamax1y3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -393,7 +397,7 @@
             // Hinatax2y1
             // 
             this.Hinatax2y1.Image = ((System.Drawing.Image)(resources.GetObject("Hinatax2y1.Image")));
-            this.Hinatax2y1.Location = new System.Drawing.Point(500, 51);
+            this.Hinatax2y1.Location = new System.Drawing.Point(502, 31);
             this.Hinatax2y1.Name = "Hinatax2y1";
             this.Hinatax2y1.Size = new System.Drawing.Size(151, 141);
             this.Hinatax2y1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -403,7 +407,7 @@
             // Hinatax3y1
             // 
             this.Hinatax3y1.Image = ((System.Drawing.Image)(resources.GetObject("Hinatax3y1.Image")));
-            this.Hinatax3y1.Location = new System.Drawing.Point(661, 43);
+            this.Hinatax3y1.Location = new System.Drawing.Point(661, 32);
             this.Hinatax3y1.Name = "Hinatax3y1";
             this.Hinatax3y1.Size = new System.Drawing.Size(151, 141);
             this.Hinatax3y1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -423,7 +427,7 @@
             // Hinatax2y2
             // 
             this.Hinatax2y2.Image = ((System.Drawing.Image)(resources.GetObject("Hinatax2y2.Image")));
-            this.Hinatax2y2.Location = new System.Drawing.Point(502, 177);
+            this.Hinatax2y2.Location = new System.Drawing.Point(502, 178);
             this.Hinatax2y2.Name = "Hinatax2y2";
             this.Hinatax2y2.Size = new System.Drawing.Size(151, 141);
             this.Hinatax2y2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -433,7 +437,7 @@
             // Hinatax3y2
             // 
             this.Hinatax3y2.Image = ((System.Drawing.Image)(resources.GetObject("Hinatax3y2.Image")));
-            this.Hinatax3y2.Location = new System.Drawing.Point(659, 178);
+            this.Hinatax3y2.Location = new System.Drawing.Point(659, 179);
             this.Hinatax3y2.Name = "Hinatax3y2";
             this.Hinatax3y2.Size = new System.Drawing.Size(151, 141);
             this.Hinatax3y2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -443,7 +447,7 @@
             // Hinatax1y3
             // 
             this.Hinatax1y3.Image = ((System.Drawing.Image)(resources.GetObject("Hinatax1y3.Image")));
-            this.Hinatax1y3.Location = new System.Drawing.Point(344, 323);
+            this.Hinatax1y3.Location = new System.Drawing.Point(344, 344);
             this.Hinatax1y3.Name = "Hinatax1y3";
             this.Hinatax1y3.Size = new System.Drawing.Size(151, 141);
             this.Hinatax1y3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;

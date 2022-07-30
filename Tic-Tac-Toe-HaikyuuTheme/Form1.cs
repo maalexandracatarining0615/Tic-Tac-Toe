@@ -36,7 +36,9 @@ namespace Tic_Tac_Toe_HaikyuuTheme
 
         private void No_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            GameForm f2 = new GameForm();
+            f2.Show();
+            this.Hide();
         }
 
         private void button1_Click(object sender, EventArgs e)

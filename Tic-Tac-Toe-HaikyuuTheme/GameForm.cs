@@ -128,7 +128,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -141,7 +141,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -171,7 +171,7 @@
                     if (Kageyamax2y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -187,7 +187,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -200,7 +200,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -213,7 +213,7 @@
                     if (Kageyamax1y1.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -230,7 +230,7 @@
                     if (Kageyamax3y2.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
 
                     }
                 }
@@ -266,7 +266,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -279,7 +279,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
                 //OOO
@@ -307,7 +307,7 @@
                     if (Hinatax2y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -323,7 +323,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -336,7 +336,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -349,7 +349,7 @@
                     if (Hinatax1y1.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -365,7 +365,7 @@
                     if (Hinatax3y2.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -390,7 +390,7 @@
             if (count == 9)
             {
                 MessageBox.Show("You are tie! You'll have to draw another game if you want a rematch!");
-                Application.Restart();
+                
             }
 
             flip = !flip;
@@ -425,7 +425,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -438,7 +438,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -468,7 +468,7 @@
                     if (Kageyamax2y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -484,7 +484,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -497,7 +497,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -510,7 +510,7 @@
                     if (Kageyamax1y1.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -527,7 +527,7 @@
                     if (Kageyamax3y2.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
 
                     }
                 }
@@ -563,7 +563,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -576,7 +576,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
                 //OOO
@@ -604,7 +604,7 @@
                     if (Hinatax2y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -620,7 +620,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -633,7 +633,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -646,7 +646,7 @@
                     if (Hinatax1y1.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -662,7 +662,7 @@
                     if (Hinatax3y2.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -687,7 +687,7 @@
             if (count == 9)
             {
                 MessageBox.Show("You are tie! You'll have to draw another game if you want a rematch!");
-                Application.Restart();
+                
             }
 
             flip = !flip;
@@ -732,7 +732,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -745,7 +745,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -775,7 +775,7 @@
                     if (Kageyamax2y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -791,7 +791,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -804,7 +804,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -817,7 +817,7 @@
                     if (Kageyamax1y1.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -834,7 +834,7 @@
                     if (Kageyamax3y2.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
 
                     }
                 }
@@ -870,7 +870,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -883,7 +883,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
                 //OOO
@@ -911,7 +911,7 @@
                     if (Hinatax2y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -927,7 +927,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -940,7 +940,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -953,7 +953,7 @@
                     if (Hinatax1y1.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -969,7 +969,7 @@
                     if (Hinatax3y2.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -994,7 +994,7 @@
             if (count == 9)
             {
                 MessageBox.Show("You are tie! You'll have to draw another game if you want a rematch!");
-                Application.Restart();
+                
             }
 
             flip = !flip;
@@ -1028,7 +1028,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1041,7 +1041,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1071,7 +1071,7 @@
                     if (Kageyamax2y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -1087,7 +1087,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1100,7 +1100,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1113,7 +1113,7 @@
                     if (Kageyamax1y1.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -1130,7 +1130,7 @@
                     if (Kageyamax3y2.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
 
                     }
                 }
@@ -1166,7 +1166,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1179,7 +1179,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
                 //OOO
@@ -1207,7 +1207,7 @@
                     if (Hinatax2y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -1223,7 +1223,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1236,7 +1236,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1249,7 +1249,7 @@
                     if (Hinatax1y1.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -1265,7 +1265,7 @@
                     if (Hinatax3y2.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -1290,7 +1290,7 @@
             if (count == 9)
             {
                 MessageBox.Show("You are tie! You'll have to draw another game if you want a rematch!");
-                Application.Restart();
+                
             }
 
             flip = !flip;
@@ -1325,7 +1325,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1338,7 +1338,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1368,7 +1368,7 @@
                     if (Kageyamax2y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -1384,7 +1384,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1397,7 +1397,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1410,7 +1410,7 @@
                     if (Kageyamax1y1.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -1427,7 +1427,7 @@
                     if (Kageyamax3y2.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
 
                     }
                 }
@@ -1463,7 +1463,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1476,7 +1476,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
                 //OOO
@@ -1504,7 +1504,7 @@
                     if (Hinatax2y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -1520,7 +1520,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1533,7 +1533,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1546,7 +1546,7 @@
                     if (Hinatax1y1.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -1562,7 +1562,7 @@
                     if (Hinatax3y2.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -1587,7 +1587,7 @@
             if (count == 9)
             {
                 MessageBox.Show("You are tie! You'll have to draw another game if you want a rematch!");
-                Application.Restart();
+                
             }
 
             flip = !flip;
@@ -1622,7 +1622,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1635,7 +1635,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1665,7 +1665,7 @@
                     if (Kageyamax2y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -1681,7 +1681,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1694,7 +1694,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1707,7 +1707,7 @@
                     if (Kageyamax1y1.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -1724,7 +1724,7 @@
                     if (Kageyamax3y2.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
 
                     }
                 }
@@ -1760,7 +1760,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1773,7 +1773,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
                 //OOO
@@ -1801,7 +1801,7 @@
                     if (Hinatax2y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -1817,7 +1817,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1830,7 +1830,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1843,7 +1843,7 @@
                     if (Hinatax1y1.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -1859,7 +1859,7 @@
                     if (Hinatax3y2.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -1884,7 +1884,7 @@
             if (count == 9)
             {
                 MessageBox.Show("You are tie! You'll have to draw another game if you want a rematch!");
-                Application.Restart();
+                
             }
 
             flip = !flip;
@@ -1918,7 +1918,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1931,7 +1931,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1961,7 +1961,7 @@
                     if (Kageyamax2y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -1977,7 +1977,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -1990,7 +1990,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2003,7 +2003,7 @@
                     if (Kageyamax1y1.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -2020,7 +2020,7 @@
                     if (Kageyamax3y2.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
 
                     }
                 }
@@ -2056,7 +2056,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2069,7 +2069,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
                 //OOO
@@ -2097,7 +2097,7 @@
                     if (Hinatax2y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -2113,7 +2113,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2126,7 +2126,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2139,7 +2139,7 @@
                     if (Hinatax1y1.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -2155,7 +2155,7 @@
                     if (Hinatax3y2.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -2180,7 +2180,7 @@
             if (count == 9)
             {
                 MessageBox.Show("You are tie! You'll have to draw another game if you want a rematch!");
-                Application.Restart();
+                
             }
 
             flip = !flip;
@@ -2214,7 +2214,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2227,7 +2227,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2257,7 +2257,7 @@
                     if (Kageyamax2y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -2273,7 +2273,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2286,7 +2286,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2299,7 +2299,7 @@
                     if (Kageyamax1y1.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -2316,7 +2316,7 @@
                     if (Kageyamax3y2.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
 
                     }
                 }
@@ -2352,7 +2352,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2365,7 +2365,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
                 //OOO
@@ -2393,7 +2393,7 @@
                     if (Hinatax2y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -2409,7 +2409,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2422,7 +2422,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2435,7 +2435,7 @@
                     if (Hinatax1y1.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -2451,7 +2451,7 @@
                     if (Hinatax3y2.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -2476,7 +2476,7 @@
             if (count == 9)
             {
                 MessageBox.Show("You are tie! You'll have to draw another game if you want a rematch!");
-                Application.Restart();
+                
             }
 
             flip = !flip;
@@ -2511,7 +2511,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2524,7 +2524,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2554,7 +2554,7 @@
                     if (Kageyamax2y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -2570,7 +2570,7 @@
                     if (Kageyamax3y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2583,7 +2583,7 @@
                     if (Kageyamax1y3.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2596,7 +2596,7 @@
                     if (Kageyamax1y1.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -2613,7 +2613,7 @@
                     if (Kageyamax3y2.Visible)
                     {
                         MessageBox.Show("Player Kageyama O is the winner!");
-                        Application.Restart();
+                        
 
                     }
                 }
@@ -2649,7 +2649,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2662,7 +2662,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
                 //OOO
@@ -2690,7 +2690,7 @@
                     if (Hinatax2y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -2706,7 +2706,7 @@
                     if (Hinatax3y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2719,7 +2719,7 @@
                     if (Hinatax1y3.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
 
@@ -2732,7 +2732,7 @@
                     if (Hinatax1y1.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -2748,7 +2748,7 @@
                     if (Hinatax3y2.Visible)
                     {
                         MessageBox.Show("Player Hinata X is the winner!");
-                        Application.Restart();
+                        
                     }
                 }
             }
@@ -2773,7 +2773,7 @@
             if (count == 9)
             {
                 MessageBox.Show("You are tie! You'll have to draw another game if you want a rematch!");
-                Application.Restart();
+                
             }
 
             flip = !flip;

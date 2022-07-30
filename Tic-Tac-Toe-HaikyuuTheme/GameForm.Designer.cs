@@ -283,6 +283,7 @@
             this.buttonH.TabIndex = 18;
             this.buttonH.Text = "button2";
             this.buttonH.UseVisualStyleBackColor = true;
+            this.buttonH.Click += new System.EventHandler(this.buttonH_Click);
             // 
             // button2
             // 
@@ -367,7 +368,7 @@
             // Kageyamax1y3
             // 
             this.Kageyamax1y3.Image = global::Tic_Tac_Toe_HaikyuuTheme.Properties.Resources.kageyamao;
-            this.Kageyamax1y3.Location = new System.Drawing.Point(345, 335);
+            this.Kageyamax1y3.Location = new System.Drawing.Point(345, 325);
             this.Kageyamax1y3.Name = "Kageyamax1y3";
             this.Kageyamax1y3.Size = new System.Drawing.Size(151, 141);
             this.Kageyamax1y3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -377,7 +378,7 @@
             // Kageyamax2y3
             // 
             this.Kageyamax2y3.Image = global::Tic_Tac_Toe_HaikyuuTheme.Properties.Resources.kageyamao;
-            this.Kageyamax2y3.Location = new System.Drawing.Point(502, 323);
+            this.Kageyamax2y3.Location = new System.Drawing.Point(502, 325);
             this.Kageyamax2y3.Name = "Kageyamax2y3";
             this.Kageyamax2y3.Size = new System.Drawing.Size(151, 141);
             this.Kageyamax2y3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -447,7 +448,7 @@
             // Hinatax1y3
             // 
             this.Hinatax1y3.Image = ((System.Drawing.Image)(resources.GetObject("Hinatax1y3.Image")));
-            this.Hinatax1y3.Location = new System.Drawing.Point(344, 344);
+            this.Hinatax1y3.Location = new System.Drawing.Point(344, 325);
             this.Hinatax1y3.Name = "Hinatax1y3";
             this.Hinatax1y3.Size = new System.Drawing.Size(151, 141);
             this.Hinatax1y3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -457,7 +458,7 @@
             // Hinatax2y3
             // 
             this.Hinatax2y3.Image = ((System.Drawing.Image)(resources.GetObject("Hinatax2y3.Image")));
-            this.Hinatax2y3.Location = new System.Drawing.Point(503, 323);
+            this.Hinatax2y3.Location = new System.Drawing.Point(503, 325);
             this.Hinatax2y3.Name = "Hinatax2y3";
             this.Hinatax2y3.Size = new System.Drawing.Size(151, 141);
             this.Hinatax2y3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;

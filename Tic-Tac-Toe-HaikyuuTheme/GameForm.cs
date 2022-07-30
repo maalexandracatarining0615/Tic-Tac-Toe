@@ -4,6 +4,8 @@
     {
         bool flip = false;
         int count = 0;
+        
+
         public GameForm()
         {
             InitializeComponent();
@@ -37,6 +39,10 @@
 
             Kageyamax3y3.Visible = false;
             Hinatax3y3.Visible = false;
+
+            
+
+
         }
 
         private void PlayerSet_Click(object sender, EventArgs e)
@@ -67,7 +73,9 @@
 
         private void Exit_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            ThankYou f3 = new ThankYou();
+            f3.Show();
+            this.Hide();
         }
 
         private void LogoCreator_Click(object sender, EventArgs e)
@@ -1593,8 +1601,8 @@
 
             if (flip)
             {
-                Kageyamax2y2.Visible;e ==  true;
-                
+                Kageyamax2y2.Visible = true;
+
             }
             else
             {
@@ -2769,6 +2777,31 @@
             }
 
             flip = !flip;
+        }
+
+        private void Hinatax1y3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Hinatax2y1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Kageyamax2y2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Kageyamax1y3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Kageyamax3y3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
